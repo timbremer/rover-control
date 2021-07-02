@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7afe2745-3240-49d9-bb29-8fe67f48c93e" name="dabpi">
+        <fileTransfer accessType="SFTP" host="dabpi.local" port="22" sshConfigId="a435589a-87a4-423a-91c5-1c53f247faa9" sshConfig="root@dabpi.local:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
